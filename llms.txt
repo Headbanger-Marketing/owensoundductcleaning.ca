@@ -1,2 +1,25 @@
 # Owen Sound Duct Cleaning
-HVAC services in Ontario.
+
+> Owen Sound Duct Cleaning is a local HVAC company serving Owen Sound, Grey, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 409-5669  |  Email: contact@owensoundductcleaning.ca  |  Website: https://owensoundductcleaning.ca
+
+## Key pages
+
+- [Home](https://owensoundductcleaning.ca/): Owen Sound Duct Cleaning homepage with service overview and FAQ
+- [About](https://owensoundductcleaning.ca/about/): About the company and service area
+- [Contact](https://owensoundductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://owensoundductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Owen Sound, Ontario
+- [Dryer Vent Cleaning](https://owensoundductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Owen Sound, Ontario
+- [Furnace & AC Cleaning](https://owensoundductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Owen Sound, Ontario
+- [HRV & Ventilation Cleaning](https://owensoundductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Owen Sound, Ontario
+- [Duct Sanitizing & Deodorizing](https://owensoundductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Owen Sound, Ontario
+- [Duct Sealing & Repair](https://owensoundductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Owen Sound, Ontario
+- [Commercial Duct Cleaning](https://owensoundductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Owen Sound, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Owen Sound are answered on the homepage.
